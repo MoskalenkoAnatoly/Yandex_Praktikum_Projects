@@ -1,2 +1,4 @@
-# Yandex_Praktikum_Projects
+# Проекты выпускника Яндекс Практикума по специальности "Data Scientist".
+
+
  
