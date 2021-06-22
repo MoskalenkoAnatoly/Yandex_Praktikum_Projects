@@ -41,4 +41,4 @@
 - numpy
 - seaborn
 - matplotlib.pyplot
-from scipy
+- scipy
