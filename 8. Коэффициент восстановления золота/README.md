@@ -6,4 +6,12 @@
 
 ## Данные
 
-[https://pictures.s3.yandex.net/resources/viruchka_1576238830.jpg]
+Показатели металлов на различных этапах очисти
+
+## Библиотеки
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- sklearn
