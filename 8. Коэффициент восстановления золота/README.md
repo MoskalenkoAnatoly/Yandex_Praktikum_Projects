@@ -6,4 +6,4 @@
 
 ## Данные
 
-(https://pictures.s3.yandex.net/resources/viruchka_1576238830.jpg)
+[https://pictures.s3.yandex.net/resources/viruchka_1576238830.jpg]
