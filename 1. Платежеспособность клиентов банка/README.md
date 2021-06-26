@@ -1,6 +1,6 @@
 # Исследование платежеспособности заемщиков
 
-## Если не грузится файл с проекто
+## Если не грузится файл с проектом
 https://nbviewer.jupyter.org/github/MoskalenkoAnatoly/Yandex_Praktikum_Projects/blob/main/1.%20Платежеспособность%20клиентов%20банка/Project_1_customer_solvency.ipynb
 
 ## Задача
