@@ -1,5 +1,8 @@
 # Определение перспективного тарифа для телеком компании
 
+## Если не грузится файл с проектом
+https://nbviewer.jupyter.org/github/MoskalenkoAnatoly/Yandex_Praktikum_Projects/blob/main/3.%20Тарифы%20телеком/Project_3_tarif_telecom.ipynb
+
 ## Задача
 
 Проанализировать два тарифных плана компании «Мегалайн»: «Смарт» и «Ультра».
