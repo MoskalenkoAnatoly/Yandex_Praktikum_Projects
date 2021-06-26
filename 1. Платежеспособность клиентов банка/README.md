@@ -28,3 +28,12 @@ https://nbviewer.jupyter.org/github/MoskalenkoAnatoly/Yandex_Praktikum_Projects/
 - Pandas
 - Mystem
 
+## Краткий вывод
+
+Примерный портрет идеального человека для дачи кредита.
+- Женщина;
+- Без детей;
+- Вдова / в разводе;
+- Средний / высокий уровень дохода;
+- Цель кредита ремонт.
+
