@@ -1,5 +1,8 @@
 # Прогнозирование оттока клиентов
 
+## Если не грузится файл с проектом
+https://nbviewer.jupyter.org/github/MoskalenkoAnatoly/Yandex_Praktikum_Projects/blob/main/6.%20Прогнозирование%20оттока%20клиентов/Project_6_classifier.ipynb
+
 ## Задача
 
 На основе исторических данных спрогнозировать, уйдёт клиент из банка в ближайшее время или нет
