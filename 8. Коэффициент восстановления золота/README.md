@@ -15,7 +15,7 @@ https://nbviewer.jupyter.org/github/MoskalenkoAnatoly/Yandex_Praktikum_Projects/
 
 - pandas
 - numpy
-- matplotlib
+- matplotlib.pyplot
 - seaborn
 - sklearn
 
