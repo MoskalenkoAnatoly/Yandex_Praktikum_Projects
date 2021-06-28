@@ -6,7 +6,7 @@ https://nbviewer.jupyter.org/github/MoskalenkoAnatoly/Yandex_Praktikum_Projects/
 
 ## Задача
 
-Провести анализ рынка недвижимости
+Используя данные  определить рыночную стоимость объектов недвижимости и типичные параметры квартир
 
 ## Данные
 
