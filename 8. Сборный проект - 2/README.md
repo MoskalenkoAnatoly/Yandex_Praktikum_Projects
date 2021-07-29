@@ -1,7 +1,7 @@
 # Предсказание коэффициента востановления золота
 
 ## Если файл с проектом не грузится
-https://nbviewer.jupyter.org/github/MoskalenkoAnatoly/Yandex_Praktikum_Projects/blob/main/8.%20Коэффициент%20восстановления%20золота/project_8_gold_recovery.ipynb
+https://nbviewer.jupyter.org/github/MoskalenkoAnatoly/Yandex_Praktikum_Projects/blob/main/8.%20Сборный%20проект%20-%202/project_8_gold_recovery.ipynb
 
 ## Задача
 
