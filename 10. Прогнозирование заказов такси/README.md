@@ -16,6 +16,7 @@
 - pandas
 - numpy
 - matplotlib.pyplot
+- statsmodels
 - sklearn
 - lightgbm
 
