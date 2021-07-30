@@ -30,5 +30,5 @@
 
 Были обучены 3 модели: RandomForestRegressor, LGBMRegressor и LinearRegression.
 Хорошие результаты показали 2 модели RandomForestRegressor и LGBMRegressor. 
-По скорости работы LGBMRegressor имеет приоритет, так как обучение происходит намного быстрее. Вероятнее этой модели стоит отдать предпочтение.
+По скорости работы LGBMRegressor имеет приоритет, так как обучение происходит намного быстрее.
 
